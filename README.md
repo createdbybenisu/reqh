@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-My name is Kevin, and I'm currently a senior at UChicago studying economics and music. 
-I love exploring the interesection between music, media, and entertainment through various angles, ranging from business, to data analytics, to emerging technology.
-Recently, I've been interested in creating a couple of cool tools and gadgets relating to my interests. I'm planning on sharing some here.
+- :smile: My name is Kevin, and I'm currently a senior at UChicago studying economics and music. 
+- :microphone: I love exploring the interesection between music, media, and entertainment through various angles, ranging from business, to data analytics, to emerging technology.
+- :wrench: Recently, I've been interested in building a couple of cool tools and gadgets relating to my interests. I'm planning on sharing some here.
 
-### Current projects and interests
+### :thought_balloon: Current projects and interests
 - Cross-community toxic comment detection, as part of Chicago Human+AI Lab
 - Discord server stats bot
 - Simple Jazz Music MIDI Composer
 
-### Previous projects
+### :ledger: Previous projects
 - Reddit comment scraper, as part of Chicago Human+AI Lab
 - Music Randomizer Sampler (SuperCollider + TouchOSC)
 - Real-time ETH Order Book and Middle Market Spread Snapshot Generator, as part of a CS course
